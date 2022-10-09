@@ -1,0 +1,72 @@
+#OTUID	Group1	Group2
+\((r)-4-((3r,5s,7s,8r,9s,10s,12s,13r,14s,17r)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoyl)glycine\	GLY	MIXED
+\(2s,6r)-2-methyl-6-((3r,5s,7r,9s,10s,12s,13r,14s,17r)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)heptanoic acid\	UNC	MIXED
+\(3r)-3-((3r,5r,6s,8s,9s,10r,13r,17r)-3,6-dihydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)butanoic acid\	UNC	MIXED
+\(4r)-4-((1r,3s,5s,7r,9s,10s,13r,14s,17r)-1,3,7-trihydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	UNC	MIXED
+\(4r)-4-((2s,3s,5r,7r,9s,10s,12s,13r,14s,17r)-2,3,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	TETRA	HOST
+\(4r)-4-((3r,4r,5s,7r,9s,10r,13r,14s,17r)-3,4,7-trihydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	UNC	MIXED
+\(4r)-4-((3r,5r,6r,9s,10r,12s,13r,14s,17r)-3,6,12-trihydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	UNC	MIXED
+\(4r)-4-((3r,5r,6s,7r,9s,10r,12s,13r,14s,17r)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	TETRA	HOST
+\(4r)-4-((3r,5r,8r,9s,10s,12s,13r,17r)-12-hydroxy-10,13-dimethyl-3-(sulfooxy)hexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	SUL	MIXED
+\(4r)-4-((3r,5s,6s,7r,8r,9s,10r,12s,13r,17r)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	TETRA	HOST
+\(4r)-4-((3s,5r,9s,10s,13r,14s,17r)-3-hydroxy-10,13-dimethyl-12-oxohexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	OXO	MICROBIAL
+\(4r)-4-((3s,5s,7s,9s,10s,13r,14s,17r)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	OXO	MICROBIAL
+\(4r)-4-((5s,7r,9s,10s,13r,14s,17r)-7-hydroxy-10,13-dimethyl-3-oxohexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	OXO	MICROBIAL
+\(6r)-2-hydroxy-2-methyl-6-((3r,5s,7r,8r,9s,10s,12s,13r,14s,17r)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)heptyl hydrogen sulfate\	SUL	MIXED
+\(r)-4-((1r,3s,5s,7r,8s,9s,10s,13r,14s,17r)-1,3,7-trihydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	UNC	MIXED
+\(r)-4-((3r,5r,6r,7r,8r,9s,10r,12s,13r,14s,17r)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	TETRA	HOST
+\(r)-4-((3r,5r,6r,7s,8s,9s,10r,13r,14s,17r)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	UNC	MIXED
+\(r)-4-((3r,5r,6r,8s,9s,10r,13r,14s,17r)-3,6-dihydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	UNC	MIXED
+\(r)-4-((3r,5s,7r,8r,9s,10s,12s,13r,14s,17r)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	UNC	MIXED
+\(r)-4-((3r,5s,8r,9s,10s,12r,13r,14s,17r)-3,12-dihydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	UNC	MIXED
+\(r)-4-((3r,5s,8r,9s,10s,13r,14s,17r)-3-hydroxy-10,13-dimethyl-7,12-dioxohexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	UNC	MIXED
+\(r)-4-((3s,5s,7r,8r,9s,10s,12s,13r,14s,17r)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	UNC	MIXED
+\(r)-4-((3s,5s,7r,8r,9s,10s,13r,14s,17r)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	OXO	MICROBIAL
+\(r)-4-((5s,8r,9s,10s,13r,14s,17r)-10,13-dimethyl-3,7-dioxohexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	OXO	MICROBIAL
+\(r)-4-((8s,9s,10r,13r,14s,17r)-10,13-dimethyl-3-oxo-2,3,6,7,8,9,10,11,12,13,14,15,16,17-tetradecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	OXO	MICROBIAL
+\(r)-4-((8s,9s,10r,13r,14s,17r)-10,13-dimethyl-3-oxo-2,3,8,9,10,11,12,13,14,15,16,17-dodecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid\	OXO	MICROBIAL
+\2-((4r)-4-((3r,5r,7r,9s,10s,13r,14s,17r)-7-hydroxy-10,13-dimethyl-3-(sulfooxy)hexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid\	TAU	HOST
+\2-((4r)-4-((3r,5r,9s,10s,12s,13r,14s,17r)-12-hydroxy-10,13-dimethyl-3-(sulfooxy)hexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid\	TAU	HOST
+\2-((4r)-4-((3r,5s,7s,9s,10s,13r,14s,17r)-3,7-dihydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)-2,2-dimethylpentanamido)ethane-1-sulfonic acid\	TAU	HOST
+\2-((4r)-4-((5r,7r,8r,9s,10s,12s,13r,17r)-7,12-dihydroxy-10,13-dimethyl-3-oxohexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid\	TAU	HOST
+\2-((r)-4-((3s,5s,7s,8r,9s,10s,13r,14s,17r)-3,7-dihydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid\	TAU	HOST
+3a,7a-dihydroxycholanoic acid - 40.0 ev	UNC	MIXED
+ala-ca	AA	MICROBIAL
+asn-ca	AA	MICROBIAL
+cholate	UNC	MIXED
+cholic acid	UNC	MIXED
+cholic acid - 40.0 ev	UNC	MIXED
+dehydrocholic acid	UNC	MIXED
+deoxycholate	UNC	MIXED
+deoxycholic acid	UNC	MIXED
+gln-ca	AA	MICROBIAL
+glu-cdca	AA	MICROBIAL
+glycochenodeoxycholate	GLY	MIXED
+glycochenodeoxycholic acid	GLY	MIXED
+glycocholate	GLY	MIXED
+glycocholic acid	GLY	MIXED
+glycohyodeoxycholic acid	GLY	MIXED
+glycoursodeoxycholic acid	GLY	MIXED
+his-ca	AA	MICROBIAL
+leucine conjugated chenodeoxycholic acid putative	AA	MICROBIAL
+lithocholic acid	AA	MICROBIAL
+massbank:rp010703 delta4-dafachronic acid|3-oxocholest-4-en-26-oic acid|(6r)-6-[(8s,9s,10r,13r,14s,17r)-10,13-dimethyl-3-oxo-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl]-2-methylheptanoic ac	OXO	MICROBIAL
+met-ca	AA	MICROBIAL
+ncgc00168839-02!(2s,3r,5r,10r,13r,14s,17s)-2,3,14-trihydroxy-10,13-dimethyl-17-[(2r,3r)-2,3,6-trihydroxy-6-methylheptan-2-yl]-2,3,4,5,9,11,12,15,16,17-decahydro-1h-cyclopenta[a]phenanthren-6-one [iin-based: match]	UNC	MIXED
+phe-ca	AA	MICROBIAL
+phe-cdca	AA	MICROBIAL
+phenylalanine deoxycholic acid	AA	MICROBIAL
+spectral match to 12-ketodeoxycholic acid from nist14	OXO	MICROBIAL
+spectral match to chenodeoxycholic acid from nist14	UNC	MIXED
+spectral match to cholic acid from nist14	UNC	MIXED
+spectral match to glycocholic acid from nist14	GLY	MIXED
+spectral match to taurocholic acid from nist14	TAU	HOST
+spectral match to tauroursodeoxycholic acid from nist14	TAU	HOST
+taurocholic acid	TAU	HOST
+taurohyocholic acid	TAU	HOST
+taurohyodeoxycholic acid	TAU	HOST
+taurolithocholate	TAU	HOST
+tauroursodeoxycholic acid	TAU	HOST
+tyr-ca	AA	MICROBIAL
+tyrosine conjugated deoxycholic acid putative	AA	MICROBIAL
+ursodeoxycholate	UNC	MIXED

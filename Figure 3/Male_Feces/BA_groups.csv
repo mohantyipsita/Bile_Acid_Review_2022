@@ -1,0 +1,83 @@
+Group,Compound_Name
+UNC,lithocholic acid
+UNC,lithocholic acid
+UNC,Spectral Match to Cholic acid from NIST14
+UNC,URSODEOXYCHOLATE
+UNC,lithocholic acid
+OXO,"""(R)-4-((8S,9S,10R,13R,14S,17R)-10,13-dimethyl-3-oxo-2,3,8,9,10,11,12,13,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+OXO,"""(R)-4-((3S,5S,7R,8R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+OXO,"""(R)-4-((8S,9S,10R,13R,14S,17R)-10,13-dimethyl-3-oxo-2,3,6,7,8,9,10,11,12,13,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+UNC,deoxycholic acid
+UNC,Spectral Match to 24S-Hydroxycholesterol from NIST14
+OXO,"""(4R)-4-((3S,5S,7S,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+tetra,"""(R)-4-((3R,5R,6R,7R,8R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+OXO,Spectral Match to 12-Ketodeoxycholic acid from NIST14
+OXO,"""(4R)-4-((3S,5R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+UNC,CHOLATE
+UNC,cholic acid
+UNC,"""(R)-4-((3S,5S,7R,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+UNC,CHOLATE
+UNC,"""(4R)-4-((3R,5R,6R,9S,10R,12S,13R,14S,17R)-3,6,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+UNC,"""(R)-4-((3S,5S,7R,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+UNC,DEHYDROCHOLIC ACID
+OXO,"""(R)-4-((3R,5S,8R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethyl-7,12-dioxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+OXO,"""(R)-4-((3S,5S,7R,8R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+tetra,"""(R)-4-((3R,5R,6R,7R,8R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+tetra,"""(4R)-4-((2S,3S,5R,7R,9S,10S,12S,13R,14S,17R)-2,3,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+UNC,"""(R)-4-((3R,5R,6R,7S,8S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+GLY,glycoursodeoxycholic acid
+UNC,"""(4R)-4-((3R,5R,7R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+UNC,Spectral Match to Cholic acid from NIST14
+GLY,glycocholic acid
+GLY,GLYCOCHENODEOXYCHOLATE
+GLY,"Massbank:RP007303 Glycolithocholic acid|AC1N3NBH|2-[4-(3-hydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoylamino]acetic acid"
+GLY,GLYCOCHOLATE
+GLY,GLYCOCHENODEOXYCHOLIC ACID
+TAU,taurocholic acid
+TAU,taurohyodeoxycholic acid
+TAU,Taurolithocholate
+GLY,Spectral Match to Glycocholic acid from NIST14
+TAU,taurocholic acid
+AA,Ala-CA
+TAU,taurohyodeoxycholic acid
+OXO,"""2-((4R)-4-((5R,7R,8R,9S,10S,12S,13R,17R)-7,12-dihydroxy-10,13-dimethyl-3-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid"""
+TAU,taurocholic acid
+TAU,Spectral Match to Tauroursodeoxycholic acid from NIST14
+AA,Glu-CDCA
+AA,Leucine conjugated chenodeoxycholic acid putative
+SUL,"""(4R)-4-((3R,5R,7R,9S,10S,12S,13R,14S,17R)-7,12-dihydroxy-10,13-dimethyl-3-(sulfooxy)hexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+TAU,"""2-((4R)-4-((5R,7R,8R,9S,10S,12S,13R,17R)-7,12-dihydroxy-10,13-dimethyl-3-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid"""
+TAU,Spectral Match to Taurocholic acid from NIST14
+TAU,TAUROURSODEOXYCHOLIC ACID
+TAU,"""2-((R)-4-((3S,5S,7S,8R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid"""
+AA,Asn-CA
+TAU,"""(6R)-2-hydroxy-2-methyl-6-((3R,5S,7R,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)heptyl hydrogen sulfate"""
+TAU,TAUROCHOLIC ACID
+AA,Glutamine conjugated cholic acid
+AA,Phe-DCA
+AA,His-CA
+AA,Tyrosine conjugated deoxycholic acid putative
+AA,Phe-CA
+AA,Tyr-CA
+TAU,"""2-((4R)-4-((3R,5R,9S,10S,12S,13R,14S,17R)-12-hydroxy-10,13-dimethyl-3-(sulfooxy)hexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid"""
+OXO,"""(4R)-4-((3S,5R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+UNC,"3a,7a-Dihydroxycholanoic acid - 40.0 eV"
+OXO,"""(4R)-4-((5S,7R,9S,10S,13R,14S,17R)-7-hydroxy-10,13-dimethyl-3-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+UNC,"""(R)-4-((3R,5S,8R,9S,10S,12R,13R,14S,17R)-3,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+OXO,"""(R)-4-((3R,5S,8R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethyl-7,12-dioxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+OXO,"""(R)-4-((3S,5S,7R,8R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+UNC,cholic acid - 40.0 eV
+OXO,"""(R)-4-((3R,5S,8R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethyl-7,12-dioxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+UNC,Cholic acid
+OXO,"""(4R)-4-((3S,5S,7S,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+tetra,"""(4R)-4-((3R,5S,6S,7R,8R,9S,10R,12S,13R,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+GLY,glycohyodeoxycholic acid
+GLY,glycocholic acid
+SUL,"""(4R)-4-((3R,5R,8R,9S,10S,12S,13R,17R)-12-hydroxy-10,13-dimethyl-3-(sulfooxy)hexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+GLY,"""((R)-4-((3R,5S,7S,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoyl)glycine"""
+SUL,"""(4R)-4-((3R,5R,8R,9S,10S,12S,13R,17R)-12-hydroxy-10,13-dimethyl-3-(sulfooxy)hexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""
+TAU,taurohyodeoxycholic acid
+TAU,taurocholic acid
+TAU,taurocholic acid
+TAU,"""2-((4R)-4-((3R,5S,7S,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)-2,2-dimethylpentanamido)ethane-1-sulfonic acid"""
+AA,Met-CA
